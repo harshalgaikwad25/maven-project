@@ -35,8 +35,8 @@
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
-          <source>1.6</source>
-          <target>1.6</target>
+          <source>3.5.2</source>
+          <target>3.5.2</target>
         </configuration>
       </plugin>
 
